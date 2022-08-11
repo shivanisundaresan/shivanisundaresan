@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivani
 - 👀 I’m interested in conversational AI, fair/explainable AI and solving social problems using technology
-- 🌱 I’m currently learning to build a personal website on React, taking courses on trading (Trading 101 and 201 by Akuna Capital)
-- 💞️ I’m looking to collaborate on research related to computational linguistics, algorithmic bias, quantitative analysis, and more
+- 🌱 I’m currently building a personal website on React, a time tracker app using Swift, and learning more about quantitative finance
+- 📚 Currently reading The Medici Effect by Frans Johansson and The Alchemist by Paulo Coelho 
 - 📫 Email: shhivani@umich.edu
 
 <!---
